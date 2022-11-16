@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <main>
-            <el-scrollbar height="100px"> </el-scrollbar>
+            <el-scrollbar height="100%"> </el-scrollbar>
         </main>
     </div>
 </template>
